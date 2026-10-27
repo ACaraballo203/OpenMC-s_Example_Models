@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<plots>
+  <plot id="2" filename="pinplot" color_by="material" type="slice" basis="xy">
+    <pixels>200 200</pixels>
+    <origin>0.0 0.0 0.0</origin>
+    <width>1.26 1.26</width>
+    <color id="1" rgb="255 255 0"/>
+    <color id="3" rgb="0 0 255"/>
+  </plot>
+</plots>

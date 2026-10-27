@@ -1,0 +1,7 @@
+matplotlib
+pandas
+scipy
+numpy
+h5py
+uncertainties
+lxml

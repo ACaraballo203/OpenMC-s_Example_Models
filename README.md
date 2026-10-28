@@ -1,1 +1,1 @@
-As a begineer using OpenMC, I will be trying the exercises provided by OpenMC to get familiar with the packages. I do not claim any content to be orginial except if the base code/ folder does not contain "E#" or is outside scope of excerises. Thank you for tuning in.
+As a beginner using OpenMC, I will be trying the exercises provided by OpenMC to get familiar with the packages. I do not claim any content to be orginial except if the base code/ folder does not contain "E#" or is outside the scope of excerises. Thank you for tuning in.

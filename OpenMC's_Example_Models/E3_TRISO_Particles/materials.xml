@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material id="1" name="Fuel" depletable="true">
+    <density value="10.5" units="g/cm3"/>
+    <nuclide name="U235" ao="0.046716"/>
+    <nuclide name="U238" ao="0.28697"/>
+    <nuclide name="O16" ao="0.5"/>
+    <nuclide name="C0" ao="0.16667"/>
+  </material>
+  <material id="2" name="Buffer">
+    <density value="1.0" units="g/cm3"/>
+    <nuclide name="C0" ao="1.0"/>
+    <sab name="c_Graphite"/>
+  </material>
+  <material id="3" name="PyC1">
+    <density value="1.9" units="g/cm3"/>
+    <nuclide name="C0" ao="1.0"/>
+    <sab name="c_Graphite"/>
+  </material>
+  <material id="4" name="PyC2">
+    <density value="1.87" units="g/cm3"/>
+    <nuclide name="C0" ao="1.0"/>
+    <sab name="c_Graphite"/>
+  </material>
+  <material id="5" name="SiC">
+    <density value="3.2" units="g/cm3"/>
+    <nuclide name="C0" ao="0.5"/>
+    <nuclide name="Si28" ao="0.4611484"/>
+    <nuclide name="Si29" ao="0.0234158"/>
+    <nuclide name="Si30" ao="0.0154358"/>
+  </material>
+  <material id="6">
+    <density value="1.1995" units="g/cm3"/>
+    <nuclide name="C0" ao="1.0"/>
+    <sab name="c_Graphite"/>
+  </material>
+</materials>
